@@ -18,7 +18,7 @@ else System.out.printf("Round %d: Tails\n",i+1);
 }
 
 System.out.printf("Heads: %d, Tails: %d\n",h ,3-h);
-if(h > 3-h)System.out.println("You won");
-else System.out.println("You lost");
+if(h > 3-h)System.out.println(""+ str +" won");
+else System.out.println(""+ str +" lost");
 }
 }
