@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class IDMe4{
+public class e3{
 
 public static void main(String[] args) {
 int h = 0;
